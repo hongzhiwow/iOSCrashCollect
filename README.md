@@ -1,0 +1,2 @@
+# iOSCrashCollect
+shell
